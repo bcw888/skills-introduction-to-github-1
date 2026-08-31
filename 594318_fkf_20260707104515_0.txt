@@ -1,0 +1,112 @@
+KONTRAHENT {
+  id=272
+  nazwa=ELEVATO SPÓ£KA AKCYJNA
+  kod=ELEVATO SPÓ£KA AKCYJNA
+  skrot=ELEVATO SPÓ£KA AKCYJNA
+  nip=6423123747
+  pesel=
+  regon=24153911700000
+  idFK=
+  miejscowosc=Bielsko-Bia³a
+  ulica=prof. dr. Mieczys³awa Micha³owicza
+  dom=12
+  lokal=
+  kodPocztowy=43-300
+  telefon1=
+  fax=
+  email=
+  stronaWWW=
+  osfiz=0
+  waluta=
+  numerRachunku=25116022020000000159721912
+  aktywny=1
+  RODZAJ {
+    kod=Kontrahenci
+  }
+  KRAJ {
+    symbol=PL
+  }
+}
+DOKUMENT {
+  guid=6423123747-20260706-4E3863000059-A7
+  anulowany=0
+  rodzaj_dok=zakupu
+  obsluguj jak=FVZ
+  nrReferencyjny=045/RUKO_1/FP/07/2026
+  symbol FK=FVZ
+  FK nazwa=ES/65/07/2026
+  opis FK=US£UGI REKTUTACJI - ELEVATO
+  pochodzenie=SOD
+  status=ZAKOÑCZONO
+  proceduraSME=0
+  kwota=713.40
+  dozaplaty=713.40
+  rozrachunek=713.40
+  dataWystawieniaObca=2026-07-06
+  dataZakupu=2026-07-31
+  data=2026-07-31
+  Datawpl=2026-07-06
+  terminPlatnosci=2026-07-06
+  mppFlags=
+  rachunek=25116022020000000159721912
+  DataKor=
+  NazwaKor=
+  jpk=1
+  KsefNumber=
+  KSeFDate=
+  eArchiveId=c012c5fe-c9b9-4550-a9be-32b9f96df094
+  DANE SPRZEDAWCY {
+    khid=271
+    khnip=6423123747
+    khnazwa=ELEVATO SPÓ£KA AKCYJNA
+    khkod=ELEVATO SPÓ£KA AKCYJNA
+    khUlica=prof. dr. Mieczys³awa Micha³owicza
+    khDomu=12
+    khlokal=
+    khmiasto=Bielsko-Bia³a
+    khkodpocz=43-300
+  }
+  REJESTR {
+    Skrot=Zakup
+    Nazwa=Zakup
+    Rodzaj=0
+    ABC=1
+    metoda_VAT=0
+    Stawka=-2
+    datarej=2026-07-06
+    okres=2026-07-01
+    netto=713.40
+    vat=0.00
+    brutto=713.40
+  }
+  ZAPIS {
+    strona=WN
+    konto=403-55-1
+    Pozycja=0
+    IdDlaRozliczen=1
+    ZapisRownolegly=0
+    kwota=713.40
+    opis=US£UGI REKTUTACJI - ELEVATO
+    NumerDok=ES/65/07/2026
+    waluta=
+    WYMIAR {
+      kwota=713.40
+      wymiar02=20888
+    }
+  }
+  ZAPIS {
+    strona=MA
+    konto=202-2-1-K271
+    Pozycja=0
+    IdDlaRozliczen=2
+    ZapisRownolegly=0
+    kwota=713.40
+    opis=US£UGI REKTUTACJI - ELEVATO
+    NumerDok=ES/65/07/2026
+    waluta=
+  }
+  TRANSAKCJA {
+    IdDlaRozliczen=-1
+    termin=2026-07-06
+  }
+}
